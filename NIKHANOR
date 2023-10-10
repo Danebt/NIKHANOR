@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Page avec des Publicités</title>
+</head>
+<body>
+    <header>
+        <h1>Mon Site Web</h1>
+    </header>
+    
+    <main>
+        <h2>Contenu Principal</h2>
+        <p>Ceci est le contenu principal de ma page.</p>
+
+        <!-- Espace réservé pour les publicités -->
+        <div id="zone-publicitaire">
+            <!-- Vous pouvez intégrer ici les codes ou les balises publicitaires fournis par votre réseau publicitaire. -->
+        </div>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Mon Site Web. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
